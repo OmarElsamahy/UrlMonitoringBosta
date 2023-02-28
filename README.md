@@ -18,6 +18,7 @@ put and delete methods to alter checks
 # Get Report of monitor Using Either Tags or IDs
 send a tag or ID to relevant endpoint to get the report
 
-#Tools
+# Tools
+
 [![Tools](https://skills.thijs.gg/icons?i=js,mongodb,nodejs,git,docker)](https://skills.thijs.gg)
 
